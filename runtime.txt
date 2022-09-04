@@ -1,2 +1,2 @@
-Python3.10.1
+Python3.6
 
